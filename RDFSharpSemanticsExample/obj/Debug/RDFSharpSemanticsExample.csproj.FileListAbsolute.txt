@@ -26,8 +26,11 @@ C:\Users\philippel\Documents\GitHub\RDFSharpSemanticsExample\RDFSharpSemanticsEx
 C:\Users\philippel\Documents\GitHub\RDFSharpSemanticsExample\RDFSharpSemanticsExample\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
 C:\Users\philippel\Documents\GitHub\RDFSharpSemanticsExample\RDFSharpSemanticsExample\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 C:\Users\philippel\Documents\GitHub\RDFSharpSemanticsExample\RDFSharpSemanticsExample\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
-C:\Users\philippel\Documents\GitHub\RDFSharpSemanticsExample\RDFSharpSemanticsExample\obj\Debug\RDFSharpSemanticsExample.csprojAssemblyReference.cache
 C:\Users\philippel\Documents\GitHub\RDFSharpSemanticsExample\RDFSharpSemanticsExample\obj\Debug\RDFSharpSemanticsExample.csproj.CoreCompileInputs.cache
 C:\Users\philippel\Documents\GitHub\RDFSharpSemanticsExample\RDFSharpSemanticsExample\obj\Debug\RDFSharpSemanticsExample.csproj.CopyComplete
 C:\Users\philippel\Documents\GitHub\RDFSharpSemanticsExample\RDFSharpSemanticsExample\obj\Debug\RDFSharpSemanticsExample.exe
 C:\Users\philippel\Documents\GitHub\RDFSharpSemanticsExample\RDFSharpSemanticsExample\obj\Debug\RDFSharpSemanticsExample.pdb
+C:\Users\philippel\Documents\GitHub\RDFSharpSemanticsExample\RDFSharpSemanticsExample\bin\Debug\Files\skos-thes.rdf
+C:\Users\philippel\Documents\GitHub\RDFSharpSemanticsExample\RDFSharpSemanticsExample\bin\Debug\Files\unescothes.rdf
+C:\Users\philippel\Documents\GitHub\RDFSharpSemanticsExample\RDFSharpSemanticsExample\bin\Debug\Files\unescothes.ttl
+C:\Users\philippel\Documents\GitHub\RDFSharpSemanticsExample\RDFSharpSemanticsExample\bin\Debug\Files\uneskos.rdf
